@@ -1,0 +1,45 @@
+[[redirects]]
+from = "https://www.nobige.cn/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "http://nobige.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://nobige.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "http://master.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "http://master.nobige.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master.nobige.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "https://master--nobige.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
+[[redirects]]
+from = "http://master--nobige.netlify.com/*"
+to = "https://nobige.cn/:splat"
+status = 301
+force = true
